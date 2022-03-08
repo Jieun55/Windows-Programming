@@ -1,0 +1,10 @@
+D:\oje527\text\text\bin\Debug\text.exe.config
+D:\oje527\text\text\bin\Debug\text.exe
+D:\oje527\text\text\bin\Debug\text.pdb
+D:\oje527\text\text\obj\Debug\text.csproj.AssemblyReference.cache
+D:\oje527\text\text\obj\Debug\text.Form1.resources
+D:\oje527\text\text\obj\Debug\text.Properties.Resources.resources
+D:\oje527\text\text\obj\Debug\text.csproj.GenerateResource.cache
+D:\oje527\text\text\obj\Debug\text.csproj.CoreCompileInputs.cache
+D:\oje527\text\text\obj\Debug\text.exe
+D:\oje527\text\text\obj\Debug\text.pdb

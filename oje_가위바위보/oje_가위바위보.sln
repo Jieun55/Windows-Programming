@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oje_가위바위보", "oje_가위바위보\oje_가위바위보.csproj", "{564E1F92-6D8A-417C-8A45-02387F95D489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "가위바위보", "가위바위보\가위바위보.csproj", "{04FBCDB6-FFF4-4A16-A674-8D01849EB280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564E1F92-6D8A-417C-8A45-02387F95D489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564E1F92-6D8A-417C-8A45-02387F95D489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564E1F92-6D8A-417C-8A45-02387F95D489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564E1F92-6D8A-417C-8A45-02387F95D489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04FBCDB6-FFF4-4A16-A674-8D01849EB280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FBCDB6-FFF4-4A16-A674-8D01849EB280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FBCDB6-FFF4-4A16-A674-8D01849EB280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FBCDB6-FFF4-4A16-A674-8D01849EB280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B718D2F-BE5A-4592-8EC0-B47D5F77322B}
+	EndGlobalSection
+EndGlobal

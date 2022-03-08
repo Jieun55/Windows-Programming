@@ -1,0 +1,7 @@
+D:\oje527\ch1\ch1\bin\Debug\ch1.exe.config
+D:\oje527\ch1\ch1\bin\Debug\ch1.exe
+D:\oje527\ch1\ch1\bin\Debug\ch1.pdb
+D:\oje527\ch1\ch1\obj\Debug\ch1.csproj.AssemblyReference.cache
+D:\oje527\ch1\ch1\obj\Debug\ch1.csproj.CoreCompileInputs.cache
+D:\oje527\ch1\ch1\obj\Debug\ch1.exe
+D:\oje527\ch1\ch1\obj\Debug\ch1.pdb

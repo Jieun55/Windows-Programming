@@ -1,0 +1,11 @@
+D:\oje527\ch12_객체동적생성\ch12_객체동적생성\bin\Debug\ch12_객체동적생성.exe.config
+D:\oje527\ch12_객체동적생성\ch12_객체동적생성\bin\Debug\ch12_객체동적생성.exe
+D:\oje527\ch12_객체동적생성\ch12_객체동적생성\bin\Debug\ch12_객체동적생성.pdb
+D:\oje527\ch12_객체동적생성\ch12_객체동적생성\obj\Debug\ch12_객체동적생성.csproj.AssemblyReference.cache
+D:\oje527\ch12_객체동적생성\ch12_객체동적생성\obj\Debug\ch12_객체동적생성.Properties.Resources.resources
+D:\oje527\ch12_객체동적생성\ch12_객체동적생성\obj\Debug\ch12_객체동적생성.csproj.GenerateResource.cache
+D:\oje527\ch12_객체동적생성\ch12_객체동적생성\obj\Debug\ch12_객체동적생성.csproj.CoreCompileInputs.cache
+D:\oje527\ch12_객체동적생성\ch12_객체동적생성\obj\Debug\ch12_객체동적생성.exe
+D:\oje527\ch12_객체동적생성\ch12_객체동적생성\obj\Debug\ch12_객체동적생성.pdb
+D:\oje527\ch12_객체동적생성\ch12_객체동적생성\obj\Debug\ch12_객체동적생성.랜덤시험문제.resources
+D:\oje527\ch12_객체동적생성\ch12_객체동적생성\obj\Debug\ch12_객체동적생성.g.resources

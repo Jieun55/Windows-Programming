@@ -1,0 +1,10 @@
+D:\oje527\ch10_Win_Form\ch10_Win_Form\bin\Debug\ch10_Win_Form.exe.config
+D:\oje527\ch10_Win_Form\ch10_Win_Form\bin\Debug\ch10_Win_Form.exe
+D:\oje527\ch10_Win_Form\ch10_Win_Form\bin\Debug\ch10_Win_Form.pdb
+D:\oje527\ch10_Win_Form\ch10_Win_Form\obj\Debug\ch10_Win_Form.csproj.AssemblyReference.cache
+D:\oje527\ch10_Win_Form\ch10_Win_Form\obj\Debug\ch10_Win_Form.MainForm.resources
+D:\oje527\ch10_Win_Form\ch10_Win_Form\obj\Debug\ch10_Win_Form.Properties.Resources.resources
+D:\oje527\ch10_Win_Form\ch10_Win_Form\obj\Debug\ch10_Win_Form.csproj.GenerateResource.cache
+D:\oje527\ch10_Win_Form\ch10_Win_Form\obj\Debug\ch10_Win_Form.csproj.CoreCompileInputs.cache
+D:\oje527\ch10_Win_Form\ch10_Win_Form\obj\Debug\ch10_Win_Form.exe
+D:\oje527\ch10_Win_Form\ch10_Win_Form\obj\Debug\ch10_Win_Form.pdb

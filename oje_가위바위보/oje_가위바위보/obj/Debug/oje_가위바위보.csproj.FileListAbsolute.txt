@@ -1,0 +1,12 @@
+D:\oje527\oje_가위바위보\oje_가위바위보\bin\Debug\oje_가위바위보.exe.config
+D:\oje527\oje_가위바위보\oje_가위바위보\bin\Debug\oje_가위바위보.exe
+D:\oje527\oje_가위바위보\oje_가위바위보\bin\Debug\oje_가위바위보.pdb
+D:\oje527\oje_가위바위보\oje_가위바위보\obj\Debug\oje_가위바위보.csproj.AssemblyReference.cache
+D:\oje527\oje_가위바위보\oje_가위바위보\obj\Debug\oje_가위바위보.Properties.Resources.resources
+D:\oje527\oje_가위바위보\oje_가위바위보\obj\Debug\oje_가위바위보.csproj.GenerateResource.cache
+D:\oje527\oje_가위바위보\oje_가위바위보\obj\Debug\oje_가위바위보.csproj.CoreCompileInputs.cache
+D:\oje527\oje_가위바위보\oje_가위바위보\obj\Debug\oje_가위바위보.exe
+D:\oje527\oje_가위바위보\oje_가위바위보\obj\Debug\oje_가위바위보.pdb
+D:\oje527\oje_가위바위보\oje_가위바위보\obj\Debug\oje_가위바위보.oje_가위바위보.resources
+D:\oje527\oje_가위바위보\oje_가위바위보\bin\Debug\가위바위보.dll
+D:\oje527\oje_가위바위보\oje_가위바위보\bin\Debug\가위바위보.pdb

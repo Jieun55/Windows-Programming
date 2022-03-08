@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ch12_객체동적생성", "ch12_객체동적생성\ch12_객체동적생성.csproj", "{1B472DD5-CBEF-4718-BEE7-01F2BFC246D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B472DD5-CBEF-4718-BEE7-01F2BFC246D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B472DD5-CBEF-4718-BEE7-01F2BFC246D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B472DD5-CBEF-4718-BEE7-01F2BFC246D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B472DD5-CBEF-4718-BEE7-01F2BFC246D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50489C1E-04B5-4626-9BD9-AC2C61228719}
+	EndGlobalSection
+EndGlobal
